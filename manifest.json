@@ -1,0 +1,10 @@
+{
+    "Name": "IsForCooking",
+    "Author": "Chris",
+    "Version": "1.0.0",
+    "Description": "Shows text if item is used in cooking",
+    "UniqueID": "Chris.IsForCooking",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

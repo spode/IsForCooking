@@ -1,0 +1,887 @@
+{
+    "Format": "2.3.0",
+    "ConfigSchema": {
+        "CookingString": {
+            "Default": "(< used in cooking <)"
+        }
+    },
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Objects",
+            "TextOperations": [
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "16",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "20",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "22",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "24",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "78",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "88",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "130",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "131",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "132",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "136",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "138",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "139",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "142",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "145",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "148",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "151",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "152",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "153",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "154",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "157",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "174",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "176",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "178",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "180",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "182",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "184",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "188",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "190",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "192",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "194",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "195",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "210",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "211",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "216",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "229",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "245",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "246",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "247",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "248",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "250",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "252",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "254",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "256",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "258",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "259",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "260",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "264",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "266",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "267",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "269",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "270",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "272",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "274",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "276",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "278",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "280",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "282",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "284",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "300",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "306",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "308",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "372",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "COMMENT": "Poppy",
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "376",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "395",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "404",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "406",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "408",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "410",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "412",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "423",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "424",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "436",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "438",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "442",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "613",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "634",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "634",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "715",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "717",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "719",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "720",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "721",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "724",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "814",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "829",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "830",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                },
+                {
+                    "Operation": "Prepend",
+                    "Target": [
+                        "Fields",
+                        "832",
+                        "Description"
+                    ],
+                    "Value": "{{CookingString}}",
+                    "Delimiter": "\n"
+                }
+            ]
+        }
+    ]
+}
