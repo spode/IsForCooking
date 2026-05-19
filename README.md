@@ -1,4 +1,4 @@
-# IsForCooking
+# IsForCooking (Stardew Valley Mod)
 - adds mouseover description for Crops, Foraged Items, Fruits etc that are used in Cooking
 - requires ContentPatcher
 
